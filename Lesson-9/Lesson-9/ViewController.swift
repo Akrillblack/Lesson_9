@@ -7,7 +7,7 @@
 
 import SnapKit
 import UIKit
-import simd
+//import simd
 
 class ViewController: UIViewController {
     
